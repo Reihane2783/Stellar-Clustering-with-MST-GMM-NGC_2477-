@@ -5,7 +5,7 @@ This project investigates open star clusters using astrometric data from the **G
 - Gaussian Mixture Model (GMM) for probabilistic clustering  
 - Comparative analysis across multiple candidate clusters
 
-📊 Goals:
+Goals:
 - Extract meaningful stellar substructures  
 - Evaluate clustering performance across different regions  
 - Support astrophysical interpretation using statistical modeling
